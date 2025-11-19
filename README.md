@@ -1,9 +1,9 @@
 # Volcano-Meteo-Tsurrogate
 
-## Author: Clea Denamiel
-## Description: Interface of the surrogate models for probabilistic hazard assessments of planetary meteotsunamis produced by volcanic eruptions.
-## References: TBD
-## Citation of notebook: TBD
+### Author: Clea Denamiel
+### Description: Interface of the surrogate models for probabilistic hazard assessments of planetary meteotsunamis produced by volcanic eruptions.
+### References: TBD
+### Citation of notebook: TBD
 
 This is the alpha version of the JN created to serve as web app (with Voila) for the Volcano-Meteo-Tsurrogate model. 
 
