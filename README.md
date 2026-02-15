@@ -68,7 +68,7 @@ The User Manual consists in:
 
 - the jupyter notebook (JN): User_Manual.ipynb
 - 3 different sub-folders: <br>
-    * **data**: all the data used to build the surrogate models for the Mayotte test case <br>
+    * **data**: all the data used to build the surrogate models for the 11 volcanoes of the test cases<br>
     * **figures**: all the figures used in the JN <br>
     * **results**: an empty folder where the results from the JN are copied <br>
 
