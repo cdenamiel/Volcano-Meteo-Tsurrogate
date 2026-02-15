@@ -53,7 +53,7 @@ The code folder contains the main Volcano_Meteo_Tsurrogate programs. The workflo
 **STEP 4**: Run Volcano_Meteo_Tsurrogate_step_4_format_input to generate the file: ../results/output_model.mat <br>
 **STEP 5**: Run Volcano_Meteo_Tsurrogate_step_5_coefficients to generate the file: ../results/output_coeff.mat <br>
 **STEP 6**: Run Volcano_Meteo_Tsurrogate_step_6_evaluation to generate the files: ../results/output_evals.mat and ../results/output_sensi.mat  <br>
-**STEP 7**: Run Volcano_Meteo_Tsurrogate_step_7_PTHA to generate the file: ../results/output_PTHA.mat <br>
+**STEP 7**: Run Volcano_Meteo_Tsurrogate_step_7_PMTHA to generate the file: ../results/output_PTHA.mat <br>
 
 All these steps can be run with the provided files for the test cases: ../data/surrogate_model_locations.mat is already provided and input_simus.nc should be downloaded separately (see Software/python/data/README.md). 
 
