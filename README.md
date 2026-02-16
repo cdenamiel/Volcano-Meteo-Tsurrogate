@@ -8,7 +8,7 @@ The project contains three main folders, **Software**, **User_Manual** and **GUI
 
 ## Software
 
-Contains two subfolders with the Landslide-Tsurrogate v1.0 programs and routines written in **Python**.
+Contains two subfolders with the Volcano-Meteo-Tsurrogate v1.0 programs and routines written in **Python**.
 
 The python folder contains three subfolders: **code**, **data** and **results**. 
 
